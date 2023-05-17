@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi Mishra</h1>
 <p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAC/scaler-create-impact.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"/>
 </p>
 
 - 🔭 I’m currently working on **ReactNative Projects**
