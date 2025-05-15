@@ -3,9 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif"/>
 </p>
 
--  I’m currently working on **ReactNative Projects**
-
--  Looking for good opportunities **in Technical Domain**
+-  I’m currently working on **Software Engineer at FLAME University**
 
 -  Fun fact: **Code is like humor. When you have to explain it, it's bad.**
 
